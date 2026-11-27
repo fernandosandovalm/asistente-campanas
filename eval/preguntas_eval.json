@@ -1,0 +1,189 @@
+[
+  {
+    "inputs": {
+      "pregunta": "¿Cuánto se invirtió en total en social durante el Q3?"
+    },
+    "outputs": {
+      "respuesta": "$740,882.02",
+      "valor": 740882.02,
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuántas citas de examen visual se generaron en el trimestre?"
+    },
+    "outputs": {
+      "respuesta": "30,893",
+      "valor": 30893,
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Qué plataforma tuvo el menor costo por cita en todo el trimestre?"
+    },
+    "outputs": {
+      "respuesta": "pinterest ($15.25)",
+      "valor": "pinterest",
+      "herramienta_esperada": "ranking",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Qué plataforma tuvo el CTR más alto?"
+    },
+    "outputs": {
+      "respuesta": "facebook (1.09%)",
+      "valor": "facebook",
+      "herramienta_esperada": "ranking",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "En agosto, en US, ¿qué plataforma tuvo el menor costo por cita?"
+    },
+    "outputs": {
+      "respuesta": "pinterest ($19.50)",
+      "valor": "pinterest",
+      "herramienta_esperada": "ranking",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuál fue el CPM en CA?"
+    },
+    "outputs": {
+      "respuesta": "$5.66",
+      "valor": 5.66,
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuál fue el CPM en PR?"
+    },
+    "outputs": {
+      "respuesta": "$4.23",
+      "valor": 4.23,
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuál fue el CPM en US?"
+    },
+    "outputs": {
+      "respuesta": "$6.96",
+      "valor": 6.96,
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Qué mes generó más citas de examen visual?"
+    },
+    "outputs": {
+      "respuesta": "2026-08 (14,678 citas)",
+      "valor": "2026-08",
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuál fue el VTR (tasa de completado) de Snapchat?"
+    },
+    "outputs": {
+      "respuesta": "72.96%",
+      "valor": 72.96,
+      "herramienta_esperada": "consultar_metricas",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuál es el creativo de TikTok con peor VTR?"
+    },
+    "outputs": {
+      "respuesta": "TT 14 - Blue light blues 30s (25.16%)",
+      "valor": "TT 14 - Blue light blues 30s",
+      "herramienta_esperada": "ranking",
+      "tipo": "numerica"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿El lower funnel cumplió el objetivo de costo por cita del brief?"
+    },
+    "outputs": {
+      "respuesta": "Costo por cita lower = $7.79 vs objetivo $25 -> sí cumple",
+      "valor": 7.79,
+      "herramienta_esperada": "consultar_metricas+buscar_conocimiento",
+      "tipo": "mixta"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Hubo algún problema de tracking en Facebook?"
+    },
+    "outputs": {
+      "respuesta": "Sí: el 2026-08-14 en US, Facebook tuvo impresiones normales pero 0 clicks y 0 LPV (posible pixel caído).",
+      "valor": "2026-08-14",
+      "herramienta_esperada": "detectar_anomalias",
+      "tipo": "anomalia"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Detectas gasto sin entrega en septiembre?"
+    },
+    "outputs": {
+      "respuesta": "Sí: el 2026-09-03 un creativo de TikTok en CA gastó dinero con 0 impresiones.",
+      "valor": "2026-09-03",
+      "herramienta_esperada": "detectar_anomalias",
+      "tipo": "anomalia"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Qué es la tasa LPV y cuándo es preocupante?"
+    },
+    "outputs": {
+      "respuesta": "LPV/clicks × 100; por debajo de 30 % sugiere tráfico sospechoso o clicks inválidos.",
+      "valor": null,
+      "herramienta_esperada": "buscar_conocimiento",
+      "tipo": "conceptual"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Cuándo es la temporada de regreso a clases en la campaña y qué mensajes se usan?"
+    },
+    "outputs": {
+      "respuesta": "Del 1 de agosto al 7 de septiembre, con más inversión diaria y mensajes de exámenes visuales para niños.",
+      "valor": null,
+      "herramienta_esperada": "buscar_conocimiento",
+      "tipo": "conceptual"
+    }
+  },
+  {
+    "inputs": {
+      "pregunta": "¿Qué KPIs debo usar para evaluar el upper funnel?"
+    },
+    "outputs": {
+      "respuesta": "CPM, impresiones/alcance, view rate, VTR y CPCV; no costo por cita.",
+      "valor": null,
+      "herramienta_esperada": "buscar_conocimiento",
+      "tipo": "conceptual"
+    }
+  }
+]

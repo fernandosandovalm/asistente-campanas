@@ -1,0 +1,88 @@
+creative,site,funnel,formato,duracion_s,fecha_inicio,fecha_fin,paises,b2s
+Post 1 - Your eyes deserve a checkup 30s,facebook,upper,video,30,2026-07-01,2026-09-30,"US,CA,PR",False
+Post 2 - Find your shape 30s,facebook,upper,video,30,2026-07-01,2026-09-30,"US,CA,PR",False
+Post 3 - Prescription sunglasses 15s,facebook,middle,video,15,2026-07-07,2026-08-09,"US,CA",False
+Post 4 - Sport frames for kids Static,facebook,upper,estatico,0,2026-08-06,2026-09-21,"US,CA",True
+Post 5 - Class photo ready Static,facebook,middle,estatico,0,2026-08-01,2026-09-25,"US,CA,PR",True
+Post 6 - Free shipping and returns 10s,facebook,middle,video,10,2026-08-21,2026-09-09,"US,CA,PR",False
+Post 7 - Blue light blues 29s,facebook,lower,video,29,2026-07-01,2026-09-30,"US,CA,PR",False
+Post 8 - Book your eye exam in 2 min 29s,facebook,middle,video,29,2026-08-22,2026-09-30,"US,CA,PR",False
+Post 9 - Style meets clarity 30s,facebook,upper,video,30,2026-09-01,2026-09-24,"US,CA,PR",False
+Post 10 - Insurance accepted Static,facebook,middle,estatico,0,2026-07-01,2026-09-30,"US,CA",False
+Post 11 - Sunnies season 30s,facebook,middle,video,30,2026-09-03,2026-09-30,"US,CA,PR",False
+Post 12 - An exam is not just for mouses 15s,facebook,upper,video,15,2026-08-06,2026-08-30,US,False
+Post 13 - Kids frames under 100 Static,facebook,lower,estatico,0,2026-07-26,2026-09-26,"US,CA,PR",True
+Post 14 - Screen time eye strain 29s,facebook,upper,video,29,2026-07-10,2026-09-10,"US,PR",False
+Post 15 - Weather getting nicer 10s,facebook,lower,video,10,2026-08-01,2026-09-30,"US,CA,PR",False
+Post 16 - Reading glasses reimagined 29s,facebook,upper,video,29,2026-08-01,2026-09-17,"US,CA,PR",False
+Post 17 - Vision changes with age 29s,facebook,middle,video,29,2026-07-01,2026-09-30,"US,CA,PR",False
+Post 18 - Back to school vision check Static,facebook,upper,estatico,0,2026-08-03,2026-09-29,"US,CA,PR",True
+Post 19 - Try 5 frames at home Static,facebook,lower,estatico,0,2026-07-14,2026-09-24,"US,CA,PR",False
+Post 20 - Glasses in 7 days 29s,facebook,upper,video,29,2026-07-04,2026-07-27,"US,CA",False
+Post 21 - See the board clearly 30s,facebook,middle,video,30,2026-07-30,2026-09-26,"US,CA,PR",True
+Post 22 - Optometrist near you Static,facebook,middle,estatico,0,2026-07-01,2026-09-30,"US,CA,PR",False
+Post 23 - Polarized for summer Static,facebook,middle,estatico,0,2026-09-05,2026-09-30,"US,PR",False
+Post 24 - Can your child see 15s,facebook,middle,video,15,2026-07-26,2026-09-29,"US,CA,PR",True
+Post 25 - Meet our optometrists Static,facebook,lower,estatico,0,2026-07-09,2026-09-11,"US,CA",False
+TT 1 - Reading glasses reimagined 21s,tiktok,middle,video,21,2026-07-08,2026-08-19,"US,CA,PR",False
+TT 2 - Style meets clarity 9s,tiktok,lower,video,9,2026-08-05,2026-09-03,"US,CA,PR",False
+TT 3 - Try 5 frames at home 15s,tiktok,upper,video,15,2026-08-09,2026-09-11,"US,CA",False
+TT 4 - Polarized for summer 15s,tiktok,upper,video,15,2026-07-01,2026-09-30,"US,CA,PR",False
+TT 5 - Back to school vision check 30s,tiktok,upper,video,30,2026-07-30,2026-09-29,US,True
+TT 6 - Your eyes deserve a checkup 21s,tiktok,middle,video,21,2026-07-19,2026-08-05,"US,CA,PR",False
+TT 7 - Meet our optometrists 15s,tiktok,upper,video,15,2026-08-31,2026-09-30,US,False
+TT 8 - Sunnies season 30s,tiktok,upper,video,30,2026-07-22,2026-09-05,"US,PR",False
+TT 9 - Insurance accepted 9s,tiktok,upper,video,9,2026-07-10,2026-08-29,"US,CA,PR",False
+TT 10 - Optometrist near you 9s,tiktok,upper,video,9,2026-08-14,2026-09-30,"US,CA,PR",False
+TT 11 - Glasses in 7 days 9s,tiktok,upper,video,9,2026-08-23,2026-09-10,"US,CA,PR",False
+TT 12 - Find your shape 15s,tiktok,upper,video,15,2026-08-08,2026-08-27,"US,PR",False
+TT 13 - Can your child see 15s,tiktok,middle,video,15,2026-08-05,2026-09-29,"US,CA,PR",True
+TT 14 - Blue light blues 30s,tiktok,middle,video,30,2026-08-15,2026-09-29,"US,CA",False
+TT 15 - First exam on us 30s,tiktok,upper,video,30,2026-07-01,2026-09-30,"US,CA,PR",False
+TT 16 - Frames that fit your face 9s,tiktok,lower,video,9,2026-08-12,2026-09-11,"US,CA,PR",False
+TT 17 - Weather getting nicer 21s,tiktok,upper,video,21,2026-07-30,2026-08-23,US,False
+TT 18 - Prescription sunglasses 21s,tiktok,middle,video,21,2026-07-29,2026-08-19,"US,PR",False
+Reading glasses reimagined Static - Snap ads,snapchat,lower,estatico,0,2026-07-08,2026-08-29,"US,PR",False
+Style meets clarity 6s - Snap ads,snapchat,upper,video,6,2026-07-20,2026-09-12,"US,CA,PR",False
+Book your eye exam in 2 min 15s - Snap ads,snapchat,middle,video,15,2026-07-01,2026-09-30,"US,CA",False
+Try 5 frames at home 6s - Snap ads,snapchat,upper,video,6,2026-07-01,2026-09-30,"US,CA,PR",False
+Find your shape Static - Snap ads,snapchat,middle,estatico,0,2026-07-04,2026-07-29,"US,CA,PR",False
+Can your child see 6s - Snap ads,snapchat,upper,video,6,2026-08-03,2026-09-22,"US,CA,PR",True
+Prescription sunglasses Static - Snap ads,snapchat,middle,estatico,0,2026-08-29,2026-09-27,"US,CA,PR",False
+Weather getting nicer 10s - Snap ads,snapchat,middle,video,10,2026-07-30,2026-09-30,"US,CA,PR",False
+Sport frames for kids 15s - Snap ads,snapchat,upper,video,15,2026-07-27,2026-09-20,"US,CA,PR",True
+Free shipping and returns 6s - Snap ads,snapchat,upper,video,6,2026-08-10,2026-09-12,"US,CA,PR",False
+Sunnies season 10s - Snap ads,snapchat,middle,video,10,2026-08-07,2026-09-25,"US,CA",False
+Optometrist near you 10s - Snap ads,snapchat,upper,video,10,2026-08-24,2026-09-30,US,False
+See the board clearly 6s - Snap ads,snapchat,middle,video,6,2026-07-29,2026-09-23,"US,CA,PR",True
+Vision changes with age 10s - Snap ads,snapchat,upper,video,10,2026-07-01,2026-09-30,"US,CA,PR",False
+Screen time eye strain Static - Snap ads,snapchat,middle,estatico,0,2026-07-01,2026-09-30,"US,CA,PR",False
+Insurance accepted Static - Snap ads,snapchat,lower,estatico,0,2026-08-21,2026-09-30,"US,CA,PR",False
+Pin 1 - Back to school vision check 6s,pinterest,upper,video,6,2026-07-28,2026-09-29,"US,CA,PR",True
+Pin 2 - First exam on us Static,pinterest,middle,estatico,0,2026-07-01,2026-09-30,"US,CA",False
+Pin 3 - Sport frames for kids Static,pinterest,lower,estatico,0,2026-08-03,2026-09-20,"US,CA,PR",True
+Pin 4 - Glasses in 7 days Static,pinterest,lower,estatico,0,2026-07-25,2026-09-07,"US,PR",False
+Pin 5 - Optometrist near you Static,pinterest,lower,estatico,0,2026-07-01,2026-09-30,"US,CA",False
+Pin 6 - Reading glasses reimagined 6s,pinterest,upper,video,6,2026-07-13,2026-09-07,"US,CA,PR",False
+Pin 7 - Sunnies season Static,pinterest,lower,estatico,0,2026-07-31,2026-09-30,"US,CA",False
+Pin 8 - Prescription sunglasses Static,pinterest,lower,estatico,0,2026-08-11,2026-08-29,"US,CA,PR",False
+Pin 9 - Book your eye exam in 2 min Static,pinterest,lower,estatico,0,2026-07-08,2026-09-10,"US,CA,PR",False
+Pin 10 - Insurance accepted Static,pinterest,middle,estatico,0,2026-08-19,2026-09-30,"US,PR",False
+Pin 11 - Style meets clarity Static,pinterest,lower,estatico,0,2026-08-01,2026-09-11,"US,CA,PR",False
+Pin 12 - Kids frames under 100 Static,pinterest,lower,estatico,0,2026-08-06,2026-09-26,"US,PR",True
+Pin 13 - An exam is not just for mouses 15s,pinterest,middle,video,15,2026-07-30,2026-08-13,"US,CA,PR",False
+Pin 14 - Polarized for summer Static,pinterest,lower,estatico,0,2026-07-01,2026-09-30,"US,PR",False
+Pin 15 - Frames that fit your face Static,pinterest,middle,estatico,0,2026-08-06,2026-09-30,"US,CA,PR",False
+Pin 16 - Find your shape Static,pinterest,lower,estatico,0,2026-08-21,2026-09-28,"US,CA,PR",False
+RD 1 - See the board clearly Static,reddit,lower,estatico,0,2026-08-08,2026-09-29,"US,PR",True
+RD 2 - Back to school vision check Static,reddit,lower,estatico,0,2026-07-29,2026-09-22,"US,CA,PR",True
+RD 3 - Class photo ready 15s,reddit,lower,video,15,2026-07-25,2026-09-22,"US,CA",True
+RD 4 - Frames that fit your face Static,reddit,lower,estatico,0,2026-07-18,2026-09-19,US,False
+RD 5 - Style meets clarity 15s,reddit,lower,video,15,2026-08-13,2026-09-30,"US,CA",False
+RD 6 - An exam is not just for mouses 15s,reddit,upper,video,15,2026-07-18,2026-09-01,"US,CA,PR",False
+RD 7 - Can your child see 30s,reddit,upper,video,30,2026-08-04,2026-09-29,"US,CA,PR",True
+RD 8 - Sunnies season Static,reddit,upper,estatico,0,2026-07-21,2026-08-20,"US,CA,PR",False
+RD 9 - Try 5 frames at home 15s,reddit,upper,video,15,2026-07-01,2026-09-30,"US,CA,PR",False
+RD 10 - Your eyes deserve a checkup Static,reddit,upper,estatico,0,2026-08-27,2026-09-30,"US,CA,PR",False
+RD 11 - Book your eye exam in 2 min 30s,reddit,upper,video,30,2026-07-01,2026-09-30,"US,CA,PR",False
+RD 12 - Vision changes with age Static,reddit,upper,estatico,0,2026-07-13,2026-08-28,"US,CA",False

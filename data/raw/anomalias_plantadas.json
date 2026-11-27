@@ -1,0 +1,33 @@
+[
+  {
+    "tipo": "tracking_caido",
+    "fecha": "2026-08-14",
+    "site": "facebook",
+    "pais": "US",
+    "descripcion": "Impresiones normales pero clicks, LPV y subscriptions en 0 (posible pixel caído)."
+  },
+  {
+    "tipo": "gasto_sin_entrega",
+    "fecha": "2026-09-03",
+    "site": "tiktok",
+    "pais": "CA",
+    "creative": "TT 2 - Style meets clarity 9s",
+    "media_cost": 189.5,
+    "descripcion": "Costo > 0 con 0 impresiones."
+  },
+  {
+    "tipo": "pico_ctr_sospechoso",
+    "fecha": "2026-07-22",
+    "site": "pinterest",
+    "pais": "US",
+    "creative": "Pin 6 - Reading glasses reimagined 6s",
+    "descripcion": "Clicks x8 sin aumento de LPV: la tasa LPV/click se desploma."
+  },
+  {
+    "tipo": "sobregasto_cpm",
+    "fecha": "2026-09-15/2026-09-17",
+    "site": "snapchat",
+    "pais": "PR",
+    "descripcion": "Costo triplicado con entrega normal: CPM ~3x."
+  }
+]

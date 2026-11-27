@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "tracking_caido",
+    "fecha": "2026-04-22",
+    "site": "snapchat",
+    "pais": "PR",
+    "descripcion": "Impresiones normales pero clicks, LPV y subscriptions en 0."
+  },
+  {
+    "tipo": "gasto_sin_entrega",
+    "fecha": "2026-05-13",
+    "site": "pinterest",
+    "pais": "US",
+    "creative": "Book your eye exam today - Pin v12",
+    "media_cost": 44.21,
+    "descripcion": "Costo > 0 con 0 impresiones."
+  },
+  {
+    "tipo": "video_completes_en_cero",
+    "fecha": "2026-06-03 a 2026-06-05",
+    "site": "tiktok",
+    "pais": "CA",
+    "descripcion": "Video starts normales pero video completes en 0 (tracking de video)."
+  },
+  {
+    "tipo": "pico_cpm",
+    "fecha": "2026-06-18",
+    "site": "reddit",
+    "pais": "US",
+    "descripcion": "Costo 4 veces mayor con impresiones normales (CPM disparado)."
+  }
+]

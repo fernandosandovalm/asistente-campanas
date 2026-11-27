@@ -1,0 +1,16 @@
+pandas
+numpy
+duckdb
+tabulate
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
+python-dotenv
+langchain-chroma
+langchain-text-splitters
+langgraph
+langsmith
+streamlit
+plotly
+nbformat>=4.2.0

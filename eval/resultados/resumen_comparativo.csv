@@ -1,0 +1,5 @@
+configuracion,corridas,valor_correcto,herramienta_v2,juez_externo,errores,latencia_p50_s,latencia_p95_s,llamadas_llm_media,tokens_media,usd_sombra_por_pregunta
+v5 agente único,34,93% (26/28),94% (32/34),91% (31/34),0,3.31,7.05,2.06,4175,0.00013
+multiagente,34,93% (26/28),100% (34/34),100% (34/34),0,4.85,7.09,3.29,3164,0.000106
+multi · router reglas,34,86% (24/28),94% (32/34),100% (34/34),0,3.82,7.8,2.29,2752,9e-05
+multi · sin crítico LLM,34,93% (26/28),100% (34/34),100% (34/34),0,4.75,6.93,3.24,3113,0.000104
