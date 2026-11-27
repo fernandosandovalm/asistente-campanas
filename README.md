@@ -187,4 +187,4 @@ El notebook compara el **agente único** con el **multiagente** sobre un conjunt
 
 ## 👤 Autor
 
-**Fer**, Maestría en Ciencia de Datos, Universidad ICESI
+**Fernando sandoval, Clauda Vanesa Noguera, Jhon Galvis, Ricardo Calderon**, Maestría en Ciencia de Datos, Universidad ICESI
