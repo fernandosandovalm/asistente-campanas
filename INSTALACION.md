@@ -125,18 +125,7 @@ El proyecto usa **LangSmith** para registrar las trazas y, opcionalmente, **Open
 
 1. Crea una cuenta gratuita en [smith.langchain.com](https://smith.langchain.com) y genera una API key en **Settings → API Keys**.
 2. (Opcional) Crea una cuenta en [openrouter.ai](https://openrouter.ai) y genera una API key, solo si vas a correr la evaluación con juez externo.
-3. Copia el archivo de ejemplo:
-
-   **Windows**
-   ```powershell
-   copy .env.example .env
-   ```
-   **macOS / Linux**
-   ```bash
-   cp .env.example .env
-   ```
-
-4. Abre `.env` con cualquier editor de texto y completa los valores:
+3. Abre `.env` con cualquier editor de texto y completa los valores:
    ```
    LANGSMITH_API_KEY=lsv2_tu_clave_aqui
    LANGSMITH_TRACING=true
